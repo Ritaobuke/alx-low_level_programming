@@ -3,10 +3,10 @@
 #include <stdio.h>
 
 /**
- * main - prins if the number is positive, zero, or negative
- * Discription: using the min function
+ * main - Prints if the number is positive, zero, or negative
+ * Description: using the main function
  * this program prints "Programming is positive, zero, or negative
- * Return: 0
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
@@ -22,6 +22,7 @@ int main(void)
 	else if (R == 0)
 		printf("%s %d is %d and is 0\n", str, n, R);
 	else if (R < 6)
-		printf("%s %d is %d and is less than 6 and not 0\n", str, n, R);	return (0);
+		printf("%s %d is %d and is less than 6 and not 0\n", str, n, R);
+	return (0);
 }
 
