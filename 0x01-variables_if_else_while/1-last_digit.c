@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 /**
- * main - print if the number is positive, zero, or negative
+ * main - prins if the number is positive, zero, or negative
  * Discription: using the min function
  * this program prints "Programming is positive, zero, or negative
  * Return: 0
