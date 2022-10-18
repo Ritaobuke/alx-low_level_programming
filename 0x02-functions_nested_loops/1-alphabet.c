@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * main - prints the alphabet in lowercase, followed by a new line
- * Auth - Rukevwe
+ * print_alphabet - prints the alphabet in lowercase, followed by a new line
+ * Description: code by Rukevwe
  */
 
 void print_alphabet(void)
