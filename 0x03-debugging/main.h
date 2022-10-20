@@ -1,11 +1,13 @@
 #ifndef MAIN_H
 #define MAIN_H
+
 #include <stdio.h>
 
 void positive_or_negative(int i);
-int comment_out(int c);
+int covert_date(int month, int day);
 int largest_number(int a, int b, int c);
-void convert_date(int day, int month, int year);
+void print_remaining_days(int month, int day, int year);
+
 
 #endif
 
