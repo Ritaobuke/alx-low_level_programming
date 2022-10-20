@@ -1,12 +1,7 @@
 #ifndef MAIN_H
 #define MAIN_H
-#include <stdio.h>
 
-/**
- * File - main.h
- * Auth - Rukevwe
- * Description - heager file used for 0x03-debugging
- */
+#include <stdio.h>
 
 void positive_or_negative(int i);
 int infinite_loop(int i);
