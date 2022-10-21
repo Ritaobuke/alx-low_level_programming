@@ -4,7 +4,6 @@
 #include <stdio.h>
 
 void positive_or_negative(int i);
-int comment_out_code(int i);
 int largest_number(int a, int b, int c);
 void convert_day(int day, int month, int year);
 
