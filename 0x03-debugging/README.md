@@ -1,1 +1,1 @@
-Debugging: finding and fixing erors in softwares
+Debugging is the process of finding and fixing errors in software that prevents it from running
