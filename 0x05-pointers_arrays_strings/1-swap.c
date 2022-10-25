@@ -4,7 +4,7 @@
  * swap_int - swaps the value of int a and int b
  * @a: first int
  * @a: first int
- * Return: Always 0
+ * Return: Always 0.
  */
 
 void swap_int(int *a, int *b)
@@ -15,5 +15,4 @@ void swap_int(int *a, int *b)
 	*a = *b;
 	*b = x;
 }
-
 
