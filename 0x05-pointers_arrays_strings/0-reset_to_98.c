@@ -1,5 +1,4 @@
 #include "main.h"
-#include <stdio.h>
 
 /**
  * main - entry point
@@ -8,16 +7,8 @@
  * Return: 0
  */
 
-int main(void)
+void reset_to_98(int *n)
 {
-	int a;
-	int *p;
-
-	a = 98;
-	p = &a;
-
-	putchar("%d\n", *p);
-
-	return (0);
+	*n = 98;
 }
 
