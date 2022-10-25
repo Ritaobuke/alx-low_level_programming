@@ -16,7 +16,7 @@ int main(void)
 	a = 98;
 	p = &a;
 
-	_putchar("%d\n", *p);
+	putchar("%d\n", *p);
 
 	return (0);
 }
