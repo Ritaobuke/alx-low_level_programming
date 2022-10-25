@@ -2,9 +2,9 @@
 
 /**
  * strlen - return the length of a string
- *
- * @s: char to check
  * Description: _strlen will return the length of a string
+ * @s: char to check
+ * 
  * Return: 0 is success
  */
 
