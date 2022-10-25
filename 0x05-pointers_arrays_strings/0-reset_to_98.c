@@ -1,10 +1,9 @@
 #include "main.h"
 
 /**
- * main - entry point
- * Description: function that takes a pointer to an int as parameter,
- * updates the value it points to 98.
- * Return: 0
+ * reset_to_98 - takes the pointer and updates the value
+ * @n: int to check
+ * Return: 0 is success
  */
 
 void reset_to_98(int *n)
