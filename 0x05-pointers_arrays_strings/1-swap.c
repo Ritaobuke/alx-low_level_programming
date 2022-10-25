@@ -2,8 +2,9 @@
 
 /**
  * swap_int - swaps the value of int a and int b
+ * written by Rukevwe
  * @a: first int
- * @a: first int
+ * @b: second int
  * Return 0
  */
 
